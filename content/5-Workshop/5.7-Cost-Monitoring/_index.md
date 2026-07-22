@@ -33,4 +33,3 @@ To avoid ongoing charges after completing the workshop, resources must be termin
 3. **Storage:** Empty and delete the S3 bucket used for frontend static hosting.
 4. **Networking & Security:** Delete custom VPCs, subnets, internet gateways, NAT gateways, and security groups created during Section 5.3.
 
-[Demo](static/images/5-Workshop/5.8-Demo/20260722-1528-43.6123558.mp4)
