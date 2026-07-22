@@ -33,4 +33,4 @@ _*Hình: AWS Cost Explorer phân tích tổng quan so sánh chi phí và các tr
 3. **Lưu trữ:** Làm trống (empty) và xóa S3 bucket được dùng để host frontend tĩnh.
 4. **Mạng & Bảo mật:** Xóa VPC tùy chỉnh, các subnet, internet gateway, NAT gateway và security group đã tạo ở Mục 5.3.
 
-[Demo](/images/c:\Users\NGUYEN\Downloads\20260722-1528-43.6123558.mp4/)
+[Demo](/images/20260722-1528-43.6123558.mp4/)
