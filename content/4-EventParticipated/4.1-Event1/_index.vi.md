@@ -1,5 +1,5 @@
 ---
-title: "Meetup 1"
+title: "Event 1"
 date: 2026-06-06
 weight: 1
 chapter: false
@@ -127,4 +127,3 @@ pre: " <b> 4.1. </b> "
 - Việc chọn giữa VM và container không phải là "cái nào tốt hơn tuyệt đối" mà là **lựa chọn phù hợp với bài toán**: bảo mật/cô lập cao thì ưu tiên VM, cần nhẹ và mở rộng nhanh thì ưu tiên container.
 - Docker không chỉ là công cụ dành cho DevOps chuyên sâu — với tư duy "friendly intro", ai cũng có thể bắt đầu thử nghiệm và áp dụng vào công việc hàng ngày.
 - Việc hiểu cơ chế layer của Docker image giúp viết Dockerfile tối ưu hơn, tiết kiệm thời gian build và dung lượng image trong thực tế.
-
