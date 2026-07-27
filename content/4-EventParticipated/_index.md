@@ -28,7 +28,7 @@ During my internship, I participated in one events. Each one was a memorable exp
 
 &emsp;**Event Name:** FCAJ x Agentic AI Build Week.
 
-&emsp;**Date & Time:** 09:00 AM, June 25, 2026
+&emsp;**Date & Time:** 09:00 AM, July 25, 2026
 
 &emsp;**Location:** 26th Floor, Bitexco Financial Tower, 02 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City, Vietnam.
 
